@@ -1,0 +1,4 @@
+Variables 
+- a variavle is a named location in memory used to store a value that can change during program execution
+- Every variavle in C++ has three properties : a name(identifier) , a type , scope / lifetime
+- 
